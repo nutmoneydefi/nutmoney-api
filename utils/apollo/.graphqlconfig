@@ -1,0 +1,15 @@
+{
+  "name": "PancakeSwap Exchange LITE",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "PancakeSwap Exchange LITE": {
+        "url": "https://q.hg.network/subgraphs/name/nut/heco",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
